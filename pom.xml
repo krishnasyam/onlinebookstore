@@ -5,7 +5,7 @@
 	<groupId>onlinebookstore</groupId>
 	<artifactId>onlinebookstore</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging
+	<packaging>war</packaging>
 	<properties>
 		<sonar.host.url>http://52.1.219.91:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
